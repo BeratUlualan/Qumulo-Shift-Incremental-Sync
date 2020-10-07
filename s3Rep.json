@@ -1,0 +1,16 @@
+{
+	"s3_replication":
+	[
+		{
+		"source_directory_path": "Source Directory Path",
+		"bucket":"Bucket Name",
+		"object_store_address":"S3 Store Address",
+		"region":"Region",	
+		"object_folder":"Object Folder",
+		"access_key_id":"AWS Access Key ID",
+		"secret_access_key":"AWS Secret Access Key",
+		"snapshot_name": "Snapshot Name on Qumulo"
+		}
+
+	]	
+}
